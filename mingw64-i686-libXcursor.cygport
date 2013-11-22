@@ -3,7 +3,7 @@ ORIG_PN="libXcursor"
 inherit cross xorg
 
 NAME="mingw64-i686-libXcursor"
-VERSION=1.1.13
+VERSION=1.1.14
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org X cursor library for Win32 toolchain"
